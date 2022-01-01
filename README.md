@@ -1,5 +1,5 @@
-# DIO - Primeiro Desafio Inter Frontend com React
-Desafio de projeto do Bootcamp Inter Frontend Developer com Git/GitHub
+# DIO - Primeiro Desafio Inter Frontend com Git/GitHub
+Desafio de projeto do Bootcamp Inter Frontend Developer utilizando o Git/GitHub
 
 # Principais Tópicos:
 
